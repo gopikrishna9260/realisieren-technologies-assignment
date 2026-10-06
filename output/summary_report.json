@@ -1,0 +1,20 @@
+{
+    "raw_records_per_source": {
+        "books_to_scrape": 1000,
+        "quotes_to_scrape": 100
+    },
+    "records_after_cleaning_per_source": {
+        "books_to_scrape": 1000,
+        "quotes_to_scrape": 100
+    },
+    "rejected_counts_by_reason": {},
+    "duplicates": 1,
+    "final_record_count": 1099,
+    "final_records_per_source": {
+        "books_to_scrape": 999,
+        "quotes_to_scrape": 100
+    },
+    "start_time": "2026-10-07T00:57:06.741037",
+    "end_time": "2026-10-07T00:59:28.970447",
+    "duration_seconds": 142.22941
+}
